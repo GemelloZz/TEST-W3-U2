@@ -1,0 +1,29 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: black;
+}
+
+.btn {
+  background-color: black;
+}
+
+.card-body {
+  background-color: #f0e6ef;
+}
+
+nav {
+  background-color: black;
+}
+
+.card-img-top {
+  height: 300px;
+  width: 100%;
+}
+
+#loading-indicator {
+  margin-bottom: 25px;
+}
+
+a {
+  color: white;
+}

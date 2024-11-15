@@ -1,0 +1,23 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: black;
+}
+
+.navbar {
+  background-color: black;
+}
+
+#savebtn {
+  background-color: blue;
+  border-color: transparent;
+}
+
+#resetbtn {
+  background-color: green;
+  border-color: transparent;
+}
+
+#delete-product {
+  background-color: red;
+  border-color: transparent;
+}
